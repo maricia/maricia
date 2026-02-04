@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything, I consider my self a life long learner. I have past experience of extracting data from various software platforms to us for state and federal reporting. I have experience developing visuals and web content for an IR office.
 
 
-- 📫 my email contact is maricia.a.allenan@gmail.com
+- 📫 my email contact is maricia.a.alleman@gmail.com
 
 <!---
 maricia/maricia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
