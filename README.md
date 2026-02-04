@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @maricia 
-- ✌ I am a West Texas Native, Army Veteran, Computer Scientist, and App Developer Extraordinaire. Problem Solver, Hardworking, and Quick Learner. Great at integrating business processes with software functions. Plus, an awesome mountain bike rider.
-- 👀 I’m interested in developing meaningfull code to help better the world around me. I have been exposed to a lot of Technology used in an academic learning environment and can almost be considered a “Jack of all” when it comes to Information Technology.  With my past IR experience, I can ensure that systems and processes meet service expectations and strategic goals for the department.  
-- 🌱 I’m currently learning everything, I consider my self a life long learner. I have past experience of extracting data from various software platforms to us for state and federal reporting. I have experience developing visuals and web content for an IR office.
+Hi, I’m Maricia
 
+I’m a West Texas native, Army veteran, computer scientist, and application developer with a strong background in building practical tools that solve real-world problems. I specialize in translating complex business and data processes into reliable, maintainable software solutions. I’m also an avid mountain bike rider —problem-solving looks different on the trail, but the mindset is the same.
 
-- 📫 my email contact is maricia.a.alleman@gmail.com
+What I’m interested in
+I enjoy developing meaningful, purpose-driven code—especially tools that improve workflows, data quality, and decision-making. Much of my experience comes from working in academic and institutional environments, which has given me broad exposure across information systems, data analytics, reporting, and automation. I’m often described as a “jack-of-all-trades” in IT, with the ability to connect systems, people, and processes.
 
-<!---
-maricia/maricia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What I’m working on
+I’m a lifelong learner who enjoys continuously expanding my technical skill set. My background includes:
+
+Extracting and validating data from multiple platforms for state and federal reporting
+
+Automating complex Excel- and data-based workflows
+
+Developing dashboards, visualizations, and web content to support Institutional Research and analytics teams
+
+Ensuring systems and processes align with service expectations and strategic goals
+
+How to reach me Email: maricia.a.alleman@gmail.com
