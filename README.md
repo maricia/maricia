@@ -1,5 +1,7 @@
 ## Hi, I'm Maricia
 
+MS Computer Science | Army Veteran | Data Analyst | Software Developer
+
 I'm a data analyst and software developer with a background in Computer Science and a passion for helping educators make better decisions through data.
 
 My work combines SQL, Python, Power BI, automation, and data engineering to transform information from disconnected systems into meaningful reports, dashboards, and decision-support tools. Throughout my career I've worked across higher education, IT, institutional research, and K-12 public education.
