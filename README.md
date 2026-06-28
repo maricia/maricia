@@ -33,7 +33,7 @@ My work spans the full stack of modern analytics: data modeling, ETL/ELT pipelin
 |---|---|
 | [AtlasV3](https://github.com/maricia/AtlasV3) | AI-assisted analytics platform: raw files → structured, searchable insights |
 | [SDR-Sorter](https://github.com/maricia/SDR-Sorter) | Python desktop tool automating ZIP extraction and file routing for large-scale data ops |
-| [Trail Vision](https://github.com/maricia/TrailVision) | MTB, Videos, AI highlight reel, AI Metrics |
+| [Trail Vision](https://github.com/maricia/TrailVision) | Mountain bike video analytics powered by Python, OpenCV, DuckDB, and modern data engineering |
 | [Texas-Discipline-Analytics](https://github.com/maricia/Texas-Discipline-Analytics) | Synthetic data dashboard demo: attendance, assessment, and accountability-style reporting |
 | [Academic-Growth-Template-Campus-Exporter](https://github.com/maricia/Academic-Growth-Template-Campus-Exporter) | VBA automation for bulk campus-level template exports |
 
